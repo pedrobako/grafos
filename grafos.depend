@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1654473815 source:c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\geral.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estruturas.h"
+	"geral.h"
+	"lista_adjacencia.h"
+	"matriz_adjacencia.h"
+	"matriz_incidencia.h"
+
+1654208513 c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\estruturas.h
+	"stdlib.h"
+
+1654471437 c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\geral.h
+	"estruturas.h"
+
+1654285238 c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\lista_adjacencia.h
+	"estruturas.h"
+
+1654463754 c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\matriz_adjacencia.h
+	"estruturas.h"
+
+1654388601 c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\matriz_incidencia.h
+	"estruturas.h"
+
+1654472982 source:c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\grafos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estruturas.h"
+	"geral.h"
+	"lista_adjacencia.h"
+	"matriz_adjacencia.h"
+	"matriz_incidencia.h"
+
+1654353630 source:c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\lista_adjacencia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_adjacencia.h"
+
+1654472597 source:c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\matriz_adjacencia.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz_adjacencia.h"
+
+1654558163 source:c:\users\pedro\onedrive\햞ea de trabalho\01. meus arquivos\06. programando\c\grafos\proj grafos\matriz_incidencia.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz_incidencia.h"
+
